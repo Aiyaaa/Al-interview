@@ -1,7 +1,7 @@
 # -
 算法岗知识点、面经
 
-NLP-ability: [BLP、推荐、搜索、机器学习](https://github.com/Aiyaaa/NLP_ability)  
+NLP-ability: [NLP、推荐、搜索、机器学习](https://github.com/Aiyaaa/NLP_ability)  
   
 AI-Job-Notes: [校招时间表、准备攻略](https://github.com/Aiyaaa/AI-Job-Notes#ai-job-notes)  
   
